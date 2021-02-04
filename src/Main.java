@@ -11,9 +11,6 @@ public class Main {
         runningRoad.doIt(team);
         team.showInfoAll();
         team.showInfoPassed();
-
-
-
     }
 }
 //1. Разобраться с имеющимся кодом (написанный во время урока)
